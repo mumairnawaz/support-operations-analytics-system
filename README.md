@@ -37,7 +37,7 @@ Ticket volume spikes during peak months and working hours, while after-hours sup
 Backlogs are driven by high ticket inflow without proportional staffing.
 
 <p align="center">
-  <img src="images/dashboard_overview.png" width="100%">
+  <img src=images/SLA%20Beach.png" width="100%">
 </p>
 
 
@@ -69,6 +69,9 @@ Ticket status distribution highlights inefficiencies:
 **Insight:**  
 A large number of in-progress tickets indicates resolution delays and process bottlenecks.
 
+<p align="center">
+  <img src="images/Ticket%20Status%20And%20Backlog.png" width="100%">
+</p>
 
 
 ## Agent Performance Analysis
@@ -82,7 +85,7 @@ Agent-level analysis shows performance variability:
 Uneven performance impacts overall support efficiency.
 
 <p align="center">
-  <img src="images/agent_performance.png" width="100%">
+  <img src="images/Support%20Agents%20Performance.png" width="100%">
 </p>
 
 
