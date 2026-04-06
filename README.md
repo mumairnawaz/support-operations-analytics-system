@@ -37,7 +37,7 @@ Ticket volume spikes during peak months and working hours, while after-hours sup
 Backlogs are driven by high ticket inflow without proportional staffing.
 
 <p align="center">
-  <img src="images/SLA%20Beach.png" width="100%">
+  <img src="images/Tickets%20Trend.png" width="100%">
 </p>
 
 
@@ -52,9 +52,12 @@ SLA performance shows delays in both first response and resolution timelines.
 **Insight:**  
 High-priority tickets are not consistently meeting SLA targets.
 
+
 <p align="center">
-  <img src="images/sla_performance.png" width="100%">
+  <img src="images/SLA%20Beach.png" width="100%">
 </p>
+
+
 
 
 
