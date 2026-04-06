@@ -27,7 +27,7 @@ These insights reveal operational inefficiencies impacting response times and cu
 
 # Performance Insights
 
----
+
 
 ## Ticket Volume & Trends
 
