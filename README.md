@@ -1,7 +1,7 @@
 # 📊 Customer Support Performance & SLA Analytics System
 
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Background](#background)
 - [Executive Summary](#executive-summary)
@@ -16,7 +16,7 @@
 - [Author](#-author)
 
 
-## Background
+# Background
 
 Customer support teams handle large volumes of tickets daily, but without structured analytics, it becomes difficult to monitor performance, track SLA compliance, and identify operational bottlenecks.
 
@@ -24,7 +24,7 @@ This project analyzes customer support data to uncover inefficiencies in ticket 
 
 
 
-## Executive Summary
+# Executive Summary
 
 This analysis evaluates **2,330 support tickets** to measure performance across ticket lifecycle, SLA compliance, and agent efficiency.
 
@@ -43,7 +43,7 @@ These insights reveal operational inefficiencies impacting response times and cu
 
 
 
-## Ticket Volume & Trends
+### Ticket Volume & Trends
 
 Ticket volume spikes during peak months and working hours, while after-hours support capacity remains limited.
 
@@ -56,7 +56,7 @@ Backlogs are driven by high ticket inflow without proportional staffing.
 
 
 
-## SLA Compliance Analysis
+### SLA Compliance Analysis
 
 SLA performance shows delays in both first response and resolution timelines.
 
@@ -75,7 +75,7 @@ High-priority tickets are not consistently meeting SLA targets.
 
 
 
-## Ticket Status & Backlog
+### Ticket Status & Backlog
 
 Ticket status distribution highlights inefficiencies:
 
@@ -91,7 +91,7 @@ A large number of in-progress tickets indicates resolution delays and process bo
 </p>
 
 
-## Agent Performance Analysis
+### Agent Performance Analysis
 
 Agent-level analysis shows performance variability:
 
@@ -130,7 +130,7 @@ The solution transforms raw support data into actionable insights, enabling impr
 
 
 
-## 👤 Author
+# 👤 Author
 
 Umair Nawaz  
 Data Analyst | Power BI | SQL
