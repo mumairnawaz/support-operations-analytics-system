@@ -1,4 +1,4 @@
-# 📊 Customer Support Performance & SLA Analytics System
+#  Customer Support Performance & SLA Analytics System
 
 
 ##  Table of Contents
