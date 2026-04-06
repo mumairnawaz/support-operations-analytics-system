@@ -1,6 +1,20 @@
 # 📊 Customer Support Performance & SLA Analytics System
 
 
+## 📌 Table of Contents
+
+- [Background](#background)
+- [Executive Summary](#executive-summary)
+- [Performance Insights](#performance-insights)
+  - [Ticket Volume & Trends](#ticket-volume--trends)
+  - [SLA Compliance Analysis](#sla-compliance-analysis)
+  - [Ticket Status & Backlog](#ticket-status--backlog)
+  - [Agent Performance Analysis](#agent-performance-analysis)
+- [Business Impact](#business-impact)
+- [Tools Used](#tools-used)
+- [Outcome](#outcome)
+- [Author](#-author)
+
 
 ## Background
 
