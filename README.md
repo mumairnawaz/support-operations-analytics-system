@@ -1,6 +1,6 @@
 # 📊 Customer Support Performance & SLA Analytics System
 
----
+
 
 ## Background
 
@@ -8,7 +8,7 @@ Customer support teams handle large volumes of tickets daily, but without struct
 
 This project analyzes customer support data to uncover inefficiencies in ticket resolution, SLA performance, and agent productivity.
 
----
+
 
 ## Executive Summary
 
@@ -23,7 +23,7 @@ Key findings:
 
 These insights reveal operational inefficiencies impacting response times and customer satisfaction.
 
----
+
 
 # Performance Insights
 
@@ -40,7 +40,7 @@ Backlogs are driven by high ticket inflow without proportional staffing.
   <img src="images/dashboard_overview.png" width="100%">
 </p>
 
----
+
 
 ## SLA Compliance Analysis
 
@@ -56,7 +56,7 @@ High-priority tickets are not consistently meeting SLA targets.
   <img src="images/sla_performance.png" width="100%">
 </p>
 
----
+
 
 ## Ticket Status & Backlog
 
@@ -69,7 +69,7 @@ Ticket status distribution highlights inefficiencies:
 **Insight:**  
 A large number of in-progress tickets indicates resolution delays and process bottlenecks.
 
----
+
 
 ## Agent Performance Analysis
 
@@ -85,7 +85,7 @@ Uneven performance impacts overall support efficiency.
   <img src="images/agent_performance.png" width="100%">
 </p>
 
----
+
 
 # Business Impact
 
@@ -94,7 +94,7 @@ Uneven performance impacts overall support efficiency.
 - Enabled better resource allocation and workload distribution  
 - Supported faster decision-making for support optimization  
 
----
+
 
 # Tools Used
 
@@ -102,13 +102,13 @@ Uneven performance impacts overall support efficiency.
 - Excel  
 - Data Analysis  
 
----
+
 
 # Outcome
 
 The solution transforms raw support data into actionable insights, enabling improved SLA compliance, reduced backlog, and enhanced customer support performance.
 
----
+
 
 ## 👤 Author
 
